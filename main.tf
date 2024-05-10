@@ -4,6 +4,6 @@ provider "aws" {
 
 # define EC2 instance resources
 resource "aws_instance" "example" {
-  ami           = var.ami_id
+  ami           = "ami-830c94e3"
   instance_type = var.instance_type
 }
