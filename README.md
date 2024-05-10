@@ -1,3 +1,5 @@
 # terraform-aws-ec2
 
-module to provision an ec2 instance on AWS
+This module provisions an ec2 instance on AWS
+You will need to provide specific region and instance type
+
