@@ -2,5 +2,5 @@
 
 This module provisions an ec2 instance on AWS
 
-You will need to provide specific region and instance type
+You will need to provide specific region and instance type to complete provisioning.
 
